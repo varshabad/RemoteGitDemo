@@ -5,8 +5,9 @@ public class Hello {
 		System.out.println("Hello Git"); 
 		System.out.println("Hello varshabad"); 
 		System.out.println(" new workspace");
-		//changes by old branch
-		System.out.println("old branch commit");
+		//changes by feature 2 branch
+		System.out.println("Feature 2 branch changes");
+		System.out.println("I am learning conflict");
 	}
 
 }
